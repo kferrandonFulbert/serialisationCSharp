@@ -40,7 +40,6 @@ Faites évoluer le projet en modifiant les classes `Membre` et `MembreSerialisab
 
 3. **Ajoutez une fonctionnalité d'écriture dans un fichier JSON :**
     - Dans le programme principal (`Program.cs`), ajoutez une méthode pour sérialiser les données des membres dans un fichier `membre.json`.
-    - Utilisez une bibliothèque comme `System.Text.Json` ou `Newtonsoft.Json` pour effectuer cette opération.
 
 4. **Testez vos modifications :**
     - Créez des instances de `Membre` avec les nouvelles propriétés.
